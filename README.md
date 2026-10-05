@@ -1,17 +1,26 @@
 <div align="center">
 
 <a href="https://heyarrakis.github.io/HeyArrakis/">
-<img src="ChatGPT%20Image%20Jul%2022%2C%202026%2C%2005_42_50%20PM.png" alt="Orange motion-blur figures on black. Click to play Sonder Runner." width="100%">
+<img src="ChatGPT%20Image%20Jul%2022%2C%202026%2C%2005_42_50%20PM.png" alt="Sonder" width="100%">
 </a>
 
-# ⚡ Sonder
+<br>
 
-**Everyone around you is moving. Only one is still.**
+# Sonder
 
-### [🚀 PLAY SONDER RUNNER →](https://heyarrakis.github.io/HeyArrakis/)
+### We build the intelligence layer behind modern organizations.
 
-Steer the rocket with your mouse · dodge the shadows · click to boost
+Independent applied AI agency. Strategy, production systems and research in one room.<br>
+*No investors, no corners cut.*
 
-🌍 Surat, India · 🌐 [sonderai.agency](https://www.sonderai.agency/)
+<br>
+
+**[▶︎ &nbsp;Clear the bottleneck — play the game](https://heyarrakis.github.io/HeyArrakis/)**
+
+<br>
+
+AI Strategy &nbsp;·&nbsp; AI Implementation &nbsp;·&nbsp; AI Transformation
+
+<sub>Bring us the hard constraint. &nbsp;→&nbsp; [sonderai.agency](https://www.sonderai.agency/) &nbsp;·&nbsp; Surat, India</sub>
 
 </div>
